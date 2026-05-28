@@ -31,12 +31,12 @@
 
 ```
 $ whoami
-> muhammad.abdullah // network engineer // dubai timezone
+muhammad.abdullah @ dubai
 
-$ cat focus.txt
-> shipping: python automation
-> studying: az-900
-> uptime:   99.9% (the 0.1% is the isp)
+  role      network engineer / sysadmin
+  focus     python automation, cisco labs
+  studying  microsoft az-900
+  uptime    99.9% (the 0.1% is the isp)
 ```
 
 ---
