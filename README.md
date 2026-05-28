@@ -35,8 +35,6 @@ muhammad.abdullah @ dubai
 
   role      network engineer / sysadmin
   focus     python automation, cisco labs
-  studying  microsoft az-900
-  uptime    99.9% (the 0.1% is the isp)
 ```
 
 ---
