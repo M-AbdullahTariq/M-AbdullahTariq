@@ -34,7 +34,6 @@ $ whoami
 muhammad.abdullah @ dubai
 
   role      network engineer / sysadmin
-  focus     python automation, cisco labs
 ```
 
 ---
