@@ -41,7 +41,6 @@ muhammad.abdullah @ dubai
 ### Certs
 
 - 🟢 **Cisco CCNA** &mdash; Certified 2026 &middot; [Credly badge](https://www.credly.com/badges/9a0ce697-5313-4d93-baee-40be10bb896c)
-- 🟡 **Microsoft AZ-900** &mdash; In progress 2026
 - 🟢 **BSc Computer Science** (Network &amp; Cybersecurity) &mdash; Lincoln University College, 2025
 
 ---
